@@ -1,5 +1,7 @@
 # project1
 风控-事件舆情立场推理  //因为项目算法交付 所以无法开源 但可做大体思路分享 并做面试项目介绍
+![image](https://github.com/user-attachments/assets/ad9b3dcb-ed08-47b7-82cb-97ea40e2a987)
+
 
 技术栈：数据处理、LLM、HAC、Neo4j、情感分析、BERT、LoRA指令微调、LoRA对抗指令微调
 
